@@ -1,13 +1,7 @@
 algoritmo "Cotaçao"
-// Disciplina   : [Linguagem e Lógica de Programação] 
-// Professor   : Antonio Carlos Nicolodi 
-
-
 
 var
-
 	reais, dolares: Real
-
 inicio
 
 	Escreva("Quantos Reais eu tenho? R$ ")
