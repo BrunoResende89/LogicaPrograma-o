@@ -8,9 +8,9 @@ Inicio
       Escreval("--------------------")
       Escreval("  Escola Bem Saber  ")
       Escreval("--------------------")
-      Escreva ("Primeira nota: ",N1)
+      Escreva ("Primeira nota: ")
       Leia(N1)
-      Escreva ("Segunda  nota: ",N2)
+      Escreva ("Segunda nota: ")
       leia(N2)
       Media <- (N1 + N2) / 2
       Escreval("A media do aluno foi ",Media:5:2)
